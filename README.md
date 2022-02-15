@@ -1,4 +1,5 @@
 # Coding Demo Practice
-git push to github  
-then git pull form github to main
-will it work?
+Change in master,  
+then push to github master branch,  
+then merge main and master,  
+before pulling from github.
