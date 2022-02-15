@@ -1,3 +1,3 @@
-# Testing Git Pull requests
-washu boot camp codingdemo
-I am doing a test for Git pull requests
+# Coding Demo
+
+Practicing pull requests
