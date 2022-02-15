@@ -1,2 +1,4 @@
 # Coding Demo Practice
-git pull after github merge.
+git push to github  
+then git pull form github to main
+will it work?
